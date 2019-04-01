@@ -1,5 +1,9 @@
 # Project Gaia
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+请共同抵抗 996 工作制, 祝 996 公司早日破产
+
 ## Demo Page
 
 [ Demo Page](https://szhielelp.github.io/JekyllTheme-ProjectGaia/#/)
